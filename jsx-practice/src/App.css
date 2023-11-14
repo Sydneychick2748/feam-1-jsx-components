@@ -1,0 +1,35 @@
+/* Home.css */
+
+h1 {
+    text-align: center;  
+}
+  
+  .imageContainer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .imageBox {
+    border: 2px solid #101110; 
+    margin: 20px; 
+    padding: 30px; 
+    text-align: center;
+    font-size: 10px;
+  }
+  
+  .imageBox img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .greenContainer {
+    background-color: #84a774;
+    padding: 60px;
+    margin: 100px 500px; 
+border:1px solid #101110;
+    text-align: left; 
+  }
+  
+  
+  
+  
